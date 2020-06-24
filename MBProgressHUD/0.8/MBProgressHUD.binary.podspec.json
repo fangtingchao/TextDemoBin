@@ -1,0 +1,30 @@
+{
+  "name": "MBProgressHUD",
+  "version": "0.8",
+  "summary": "An iOS activity indicator view.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "http://www.bukovinski.com",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Matej Bukovinski": "matej@bukovinski.com"
+  },
+  "source": {
+    "http": "127.0.0.1:8086/frameworks/MBProgressHUD/0.8/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "MBProgressHUD.framework/Headers/*",
+    "MBProgressHUD.framework/Versions/A/Headers/*"
+  ],
+  "vendored_frameworks": "MBProgressHUD.framework",
+  "public_header_files": [
+    "MBProgressHUD.framework/Headers/*",
+    "MBProgressHUD.framework/Versions/A/Headers/*"
+  ]
+}
