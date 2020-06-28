@@ -1,0 +1,30 @@
+{
+  "name": "FTCParseTool",
+  "version": "0.2.3",
+  "summary": "A short description of FTCParseTool.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/fangtingchao/FTCParseTool",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "fangtingchao": "ftc0423@163.com"
+  },
+  "source": {
+    "http": "127.0.0.1:8086/frameworks/FTCParseTool/0.2.3/zip",
+    "type": "zip"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": [
+    "FTCParseTool.framework/Headers/*",
+    "FTCParseTool.framework/Versions/A/Headers/*"
+  ],
+  "vendored_frameworks": "FTCParseTool.framework",
+  "public_header_files": [
+    "FTCParseTool.framework/Headers/*",
+    "FTCParseTool.framework/Versions/A/Headers/*"
+  ]
+}
